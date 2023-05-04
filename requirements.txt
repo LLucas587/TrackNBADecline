@@ -1,0 +1,10 @@
+# CSC111 Winter 2023: Python libraries for the final project
+
+hypothesis
+pytest
+python-ta~=2.4.2
+
+plotly>=5.8
+pandas
+numpy
+igraph
