@@ -1,5 +1,3 @@
-Repository for Decline Nba Project for CSC111 winter 2023.
-
 Uses Trees for quick lookup of data and pygraph to plot declines of nba players.
 
 
