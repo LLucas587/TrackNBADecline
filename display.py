@@ -1,10 +1,3 @@
-"""CSC111 Winter 2023 Final Project
-
-This file is a part of the project and its overall goal of tracking the decline of Nba players as they age. This file
-specifically plots the average statistical declines of players.
-
-This file is Copyright (c) 2023 Lucas Li
-"""
 import igraph as ig
 import plotly.graph_objs as go
 import plotly.express as px

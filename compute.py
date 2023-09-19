@@ -1,10 +1,3 @@
-"""CSC111 Winter 2023 Final Project
-
-This file is a part of the project and its overall goal of tracking the decline of Nba players as they age. This file
-specifically computes on our data.
-
-This file is Copyright (c) 2023 Lucas Li
-"""
 from __future__ import annotations
 from typing import Any, Optional
 import sys
